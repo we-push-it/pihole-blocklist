@@ -1,0 +1,2 @@
+params-msg-eu.vidaahub.com
+vidaa-base-auth-eu.vidaahub.com
